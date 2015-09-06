@@ -39,7 +39,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Europe/Warsaw',
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'pl',
 
     /*
     |--------------------------------------------------------------------------
@@ -140,9 +140,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Bugs\Providers\AppServiceProvider::class,
+        Bugs\Providers\EventServiceProvider::class,
+        Bugs\Providers\RouteServiceProvider::class,
+        Bugs\Providers\AnnotationsServiceProvider::class,
 
     ],
 

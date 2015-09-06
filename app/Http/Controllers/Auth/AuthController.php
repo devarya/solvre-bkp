@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Bugs\Http\Controllers\Auth;
 
-use App\User;
+use Bugs\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Bugs\Http\Controllers\Base\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
@@ -26,7 +26,6 @@ class AuthController extends Controller
     /**
      * Create a new authentication controller instance.
      *
-     * @return void
      */
     public function __construct()
     {
