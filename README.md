@@ -29,6 +29,7 @@ Solvre Features:
 - Code Review support
 - Help documentation
 - Plugins documentation
+- CSV (git, svn support)
 
 ## Screenshots: First Login View:
 -- in progress --
