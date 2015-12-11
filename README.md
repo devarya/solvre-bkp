@@ -1,8 +1,10 @@
+
+![Solvre](http://maveius.pl/img/solvre128.png)
 # Solvre - Simple Issue Tracker
 
 What is "Solvre" ?
 
-'Solvre' means Solve Your Problems and it is a Tool for manage projects and for ordered communicate with customers.
+'Solvre' means **Solve** Your P**r**obl**e**ms and it is a Tool for manage projects and for ordered communicate with customers.
 Inspired by JIRA, Bamboo and PHPCI project.
 
 Solvre Features:
