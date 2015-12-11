@@ -1,8 +1,32 @@
-# Britsos - Simple Issue Tracker
+# Solvre - Simple Issue Tracker
 
-What is "Britsos" ?
+What is "Solvre" ?
 
-'Britsos' means Bugs Report and Issue Tracker System which is Open Source
+'Solvre' means Solve Your Problems and it is a Tool for manage projects and for ordered communicate with customers.
+Inspired by JIRA, Bamboo and PHPCI project.
 
-## First Login View:
-![Printscreen](https://bugs.maveius.pl/assets/images/bugsit-portal-01.png "Main screen")
+Solvre Features:
+
+- Create and Manage Projects
+- Create and Manage Tasks
+- Create and Manage Workflow for project
+- Bug Tracking
+- Time Tracking
+- Agile support (Backlock, Planning Sprint, Versioning, Create release, assign release to build plan) 
+- Create and Manage Build plan
+- Create and Manage Deployment plans
+- Can Assign Build Plan with Deployment plan - you can do this after success build or set time to run deploy or build.
+- Manual Run plan
+- Create own project fields
+- Create own bords
+- Create own widgets
+- Create own plugins
+- Custom Query Langue for custom queries
+- Create own Dashboards with charts
+- Own actions for statuses, validations
+- Code Review support
+- Help documentation
+- Plugins documentation
+
+## Screenshots: First Login View:
+-- in progress --
